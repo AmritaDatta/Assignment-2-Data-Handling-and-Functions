@@ -79,6 +79,7 @@ public static void salary (long[] employeeSalary) {
     }
     
     public static void display(String nameToSearch, String[] employeeIds, String[] employeeNames, long[] employeeSalary) {
+        
         System.out.println("For third query");
         System.out.println("Enter Student's name: ");
         nameToSearch = in.next();
